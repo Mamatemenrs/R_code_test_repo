@@ -1,2 +1,6 @@
+llibrary(ISLR)
+data1= iris
+head(data1)
 a= 10
-a
+b= 11
+
